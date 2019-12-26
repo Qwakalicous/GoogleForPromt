@@ -8,6 +8,6 @@ There is not really anything to install here yet...
 ## Usage
 Run the script
 
-'''console
+'''python
 run GoogleForPromt.py
 '''
